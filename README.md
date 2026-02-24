@@ -6,9 +6,6 @@ Project 1: Performance analytics (call center KPIs)
 
 Project 2: Customer analytics (telecom churn)
 
-These projects feature: 
-Interactive filtering and segmentation
-
 ## Dashboards
 
 ### 📊 Call Center Performance Dashboard
@@ -25,8 +22,8 @@ Operational analytics dashboard analysing agent performance over the last 30 day
 - Interactive filtering
 - Performance comparison
 
-➡️ Live dashboard: https://public.tableau.com/app/profile/vincent.godesberg/viz/CallCenterData_17710022779300/Callcenterperformance
-➡️ Project details: ./callcenter-dashboard
+➡️ [Live dashboard](https://public.tableau.com/app/profile/vincent.godesberg/viz/CallCenterData_17710022779300/Callcenterperformance)
+➡️ [Project details](./callcenter-dashboard)
 
 ### 📉 Telecom Customer Churn Dashboard
 Customer segmentation dashboard exploring churn behaviour across contract and payment structures.
@@ -40,6 +37,6 @@ Customer segmentation dashboard exploring churn behaviour across contract and pa
 - Cohort-style analysis
 - Segmentation logic
 - Interactive parameter/filter design
-
-➡️ Live dashboard: [link]
-➡️ Project details: ./churn-dashboard
+  
+➡️ [Live dashboard](https://public.tableau.com/app/profile/vincent.godesberg/viz/ChurnDashboard_17702176607030/ChurnRateDashboard)
+➡️ [Project details](./churn-dashboard)
