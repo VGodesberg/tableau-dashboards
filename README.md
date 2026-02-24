@@ -23,6 +23,7 @@ Operational analytics dashboard analysing agent performance over the last 30 day
 - Performance comparison
 
 ➡️ [Live dashboard](https://public.tableau.com/app/profile/vincent.godesberg/viz/CallCenterData_17710022779300/Callcenterperformance)
+
 ➡️ [Project details](./callcenter-dashboard)
 
 ### 📉 Telecom Customer Churn Dashboard
@@ -39,4 +40,5 @@ Customer segmentation dashboard exploring churn behaviour across contract and pa
 - Interactive parameter/filter design
   
 ➡️ [Live dashboard](https://public.tableau.com/app/profile/vincent.godesberg/viz/ChurnDashboard_17702176607030/ChurnRateDashboard)
+
 ➡️ [Project details](./churn-dashboard)
