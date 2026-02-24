@@ -1,2 +1,45 @@
-# tableau-dashboards
-Interactive Tableau dashboards for exploratory data analysis and visual storytelling
+# Tableau Dashboard Portfolio
+
+Interactive Tableau dashboards focused on operational analytics and customer behaviour analysis.
+
+Project 1: Performance analytics (call center KPIs)
+
+Project 2: Customer analytics (telecom churn)
+
+These projects feature: 
+Interactive filtering and segmentation
+
+## Dashboards
+
+### 📊 Call Center Performance Dashboard
+Operational analytics dashboard analysing agent performance over the last 30 days.
+
+**Focus**
+- Ratings and service quality
+- Resolved calls
+- Answer time distribution
+- Agent-level filtering
+
+**Skills demonstrated**
+- KPI design
+- Interactive filtering
+- Performance comparison
+
+➡️ Live dashboard: [link]
+➡️ Project details: ./callcenter-dashboard
+
+### 📉 Telecom Customer Churn Dashboard
+Customer segmentation dashboard exploring churn behaviour across contract and payment structures.
+
+**Focus**
+- Contract types
+- Payment methods
+- Tenure-based churn patterns
+
+**Skills demonstrated**
+- Cohort-style analysis
+- Segmentation logic
+- Interactive parameter/filter design
+
+➡️ Live dashboard: [link]
+➡️ Project details: ./churn-dashboard
